@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align:center;
 }
 
 .profile {
@@ -107,4 +108,17 @@ p {
 
 .links:hover {
     background-color: dodgerblue;
+}
+a{
+    text-decoration:none;
+}
+.article:hover{
+    color:chartreuse;
+    
+}
+html{
+    scroll-behavior:smooth;
+}
+#Work{
+   background:linear-gradient(#FFFF00 50%,#0000FF 100%); 
 }
